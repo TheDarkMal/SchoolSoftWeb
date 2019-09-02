@@ -144,3 +144,9 @@ C:\Users\MauricioVergara\Desktop\programas\vs-Cesar\proyectofinal\SchoolSoftWeb\
 C:\Users\MauricioVergara\Desktop\programas\vs-Cesar\proyectofinal\SchoolSoftWeb\SchoolSoftWeb\obj\Debug\SchoolSoftWeb.csproj.CopyComplete
 C:\Users\MauricioVergara\Desktop\programas\vs-Cesar\proyectofinal\SchoolSoftWeb\SchoolSoftWeb\obj\Debug\SchoolSoftWeb.dll
 C:\Users\MauricioVergara\Desktop\programas\vs-Cesar\proyectofinal\SchoolSoftWeb\SchoolSoftWeb\obj\Debug\SchoolSoftWeb.pdb
+C:\Users\MauricioVergara\Desktop\programas\vs-Cesar\proyectofinal\SchoolSoftWeb\SchoolSoftWeb\bin\Biblioteca.dll
+C:\Users\MauricioVergara\Desktop\programas\vs-Cesar\proyectofinal\SchoolSoftWeb\SchoolSoftWeb\bin\MySql.Data.dll
+C:\Users\MauricioVergara\Desktop\programas\vs-Cesar\proyectofinal\SchoolSoftWeb\SchoolSoftWeb\bin\Google.Protobuf.dll
+C:\Users\MauricioVergara\Desktop\programas\vs-Cesar\proyectofinal\SchoolSoftWeb\SchoolSoftWeb\bin\BouncyCastle.Crypto.dll
+C:\Users\MauricioVergara\Desktop\programas\vs-Cesar\proyectofinal\SchoolSoftWeb\SchoolSoftWeb\bin\Biblioteca.pdb
+C:\Users\MauricioVergara\Desktop\programas\vs-Cesar\proyectofinal\SchoolSoftWeb\SchoolSoftWeb\bin\MySql.Data.xml

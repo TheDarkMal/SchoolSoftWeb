@@ -1,0 +1,11 @@
+C:\Users\MauricioVergara\Desktop\programas\vs-Cesar\proyectofinal\SchoolSoftWeb\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\MauricioVergara\Desktop\programas\vs-Cesar\proyectofinal\SchoolSoftWeb\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\MauricioVergara\Desktop\programas\vs-Cesar\proyectofinal\SchoolSoftWeb\Biblioteca\bin\Debug\MySql.Data.dll
+C:\Users\MauricioVergara\Desktop\programas\vs-Cesar\proyectofinal\SchoolSoftWeb\Biblioteca\bin\Debug\Google.Protobuf.dll
+C:\Users\MauricioVergara\Desktop\programas\vs-Cesar\proyectofinal\SchoolSoftWeb\Biblioteca\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MauricioVergara\Desktop\programas\vs-Cesar\proyectofinal\SchoolSoftWeb\Biblioteca\bin\Debug\MySql.Data.xml
+C:\Users\MauricioVergara\Desktop\programas\vs-Cesar\proyectofinal\SchoolSoftWeb\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\MauricioVergara\Desktop\programas\vs-Cesar\proyectofinal\SchoolSoftWeb\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\MauricioVergara\Desktop\programas\vs-Cesar\proyectofinal\SchoolSoftWeb\Biblioteca\obj\Debug\Biblioteca.csproj.CopyComplete
+C:\Users\MauricioVergara\Desktop\programas\vs-Cesar\proyectofinal\SchoolSoftWeb\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\MauricioVergara\Desktop\programas\vs-Cesar\proyectofinal\SchoolSoftWeb\Biblioteca\obj\Debug\Biblioteca.pdb
